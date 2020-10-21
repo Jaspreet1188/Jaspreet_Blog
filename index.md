@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# About Me
+-
+-
+-
 
-attempting to add text to new blog
+[Linkedin](https://www.linkedin.com/in/jaspreet-singh-bains-25824a193/) and ![linkedin_logo](https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png)
+
 ## Header 2
 ### Header 3
 
